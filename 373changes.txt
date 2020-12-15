@@ -1,0 +1,10 @@
+layout
+flow 28 <- flow 373
+width: 165.79 <-158
+
+email
+cell 1flow 6 <- cell 1flow 9
+
+risk specialist firstname lastname
+
+email subj:    4 : return "Your Achmea All-in-One Farm Pack Policy Renewal Invitation";
